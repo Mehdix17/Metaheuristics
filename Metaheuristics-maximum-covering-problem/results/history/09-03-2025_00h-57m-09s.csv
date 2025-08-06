@@ -1,0 +1,2 @@
+Benchmark,Algorithme,m,n,k,Nb_Subsets_Solution,Elements_Couverts,Taux_Couverture (%),Temps d'execution
+scp43,Genetique,200,1000,134,134,976,97.6,0.08

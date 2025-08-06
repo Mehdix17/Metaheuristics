@@ -1,0 +1,3 @@
+Benchmark,Algorithme,m,n,k,Nb_Subsets_Solution,Elements_Couverts,Taux_Couverture (%),Temps d'execution
+scp41,Genetique,200,1000,134,134,974,97.4,0.07
+scp41,DFS,200,1000,134,134,970,97.0,10.01
