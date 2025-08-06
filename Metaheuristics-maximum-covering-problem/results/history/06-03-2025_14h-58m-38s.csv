@@ -1,0 +1,2 @@
+Benchmark,Algorithme,m,n,k,Nb_Subsets_Solution,Elements_Couverts,Taux_Couverture (%),Temps d'execution
+scp43,DFS,200,1000,134,134,973,97.3,60.01

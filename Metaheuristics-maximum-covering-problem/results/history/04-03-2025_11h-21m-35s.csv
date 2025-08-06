@@ -1,0 +1,5 @@
+Benchmark,Algorithme,m,n,k,Nb_Subsets_Solution,Elements_Couverts,Taux_Couverture (%)
+scpc4,Genetique,400,4000,267,267,3998,99.95
+scpc5,Genetique,400,4000,267,267,3997,99.92
+scpc3,Genetique,400,4000,267,267,3998,99.95
+scpb2,Genetique,300,3000,200,200,3000,100.0

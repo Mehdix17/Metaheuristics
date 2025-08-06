@@ -1,0 +1,7 @@
+Benchmark,Algorithme,m,n,k,Nb_Subsets_Solution,Elements_Couverts,Taux_Couverture (%),Temps d'execution
+scpa2,Genetique,300,3000,200,200,2975,99.17,0.27
+scpa2,DFS,300,3000,200,200,2962,98.73,10.02
+scpa3,Genetique,300,3000,200,200,2966,98.87,0.28
+scpa3,DFS,300,3000,200,200,2963,98.77,10.02
+scpc1,Genetique,400,4000,267,267,3995,99.88,0.5
+scpc1,DFS,400,4000,267,267,3991,99.78,10.03
