@@ -1,2 +1,2 @@
-# Other-Projects
-A collection of different projects
+# Metaheuristics
+A collection of different metaheuristics projects
